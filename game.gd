@@ -5,6 +5,8 @@ signal level_fail
 
 enum {INIT, SPLASH, START, LEVEL_1, LEVEL_2}
 
+var GRID_SIZE = 32
+
 var current_level = null
 
 func _ready():

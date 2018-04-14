@@ -1,0 +1,19 @@
+[remap]
+
+importer="eska.aseprite_importer"
+type="PackedScene"
+path="res://.import/character.json-17963f9b6eedf659f042d3eb36effb0d.scn"
+
+[deps]
+
+source_file="res://character/character.json"
+source_md5="f191deb36f1ec8b655bf454f1787db23"
+
+dest_files=[ "res://.import/character.json-17963f9b6eedf659f042d3eb36effb0d.scn" ]
+dest_md5="817743a486036c8d8927aa3a2b8c5e08"
+
+[params]
+
+sheet_image=""
+post_script=""
+autoplay_animation=""
